@@ -1,3 +1,3 @@
 # Coltin
 Coltin's Repository
-x git revert docs/
+git revert  -n Coltin~2 
